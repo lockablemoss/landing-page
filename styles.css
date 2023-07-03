@@ -139,3 +139,40 @@ h2 {
   margin-top: -50px;
   margin-right: 20px;
 }
+
+/* WERE GETTING THERE */
+
+.fourth {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+}
+
+.action {
+  display: flex;
+  align-items: center;
+  padding: 30px 110px 30px 110px;
+  gap: 100px;
+  background-color: #3882F6;
+  border-radius: 6px;
+}
+
+.fourth button {
+  border-style: solid;
+  border-color: #E5E7EB;
+  border-width: 2px;
+}
+
+#four {
+  margin: 0;
+  color: #E5E7EB;
+  font-size: 14px;
+}
+
+#h6 {
+  margin: 0;
+  color: #F9FAF8;
+  font-size: 20px;
+  font-weight: bolder;
+}
